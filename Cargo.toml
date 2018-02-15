@@ -1,0 +1,9 @@
+[package]
+name = "rgrep"
+version = "0.1.0"
+authors = ["17g <inagawa00@gmail.com>"]
+
+[dependencies]
+regex = "0.2.5"
+console = "0.6.1"
+atty = "0.2.6"
